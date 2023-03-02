@@ -1,0 +1,12 @@
+D:\Projects\VSCODE-.NET\BuberDinner\BubberDinner.Domain\bin\Debug\net7.0\BubberDinner.Domain.deps.json
+D:\Projects\VSCODE-.NET\BuberDinner\BubberDinner.Domain\bin\Debug\net7.0\BubberDinner.Domain.dll
+D:\Projects\VSCODE-.NET\BuberDinner\BubberDinner.Domain\bin\Debug\net7.0\BubberDinner.Domain.pdb
+D:\Projects\VSCODE-.NET\BuberDinner\BubberDinner.Domain\obj\Debug\net7.0\BubberDinner.Domain.csproj.AssemblyReference.cache
+D:\Projects\VSCODE-.NET\BuberDinner\BubberDinner.Domain\obj\Debug\net7.0\BubberDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VSCODE-.NET\BuberDinner\BubberDinner.Domain\obj\Debug\net7.0\BubberDinner.Domain.AssemblyInfoInputs.cache
+D:\Projects\VSCODE-.NET\BuberDinner\BubberDinner.Domain\obj\Debug\net7.0\BubberDinner.Domain.AssemblyInfo.cs
+D:\Projects\VSCODE-.NET\BuberDinner\BubberDinner.Domain\obj\Debug\net7.0\BubberDinner.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\VSCODE-.NET\BuberDinner\BubberDinner.Domain\obj\Debug\net7.0\BubberDinner.Domain.dll
+D:\Projects\VSCODE-.NET\BuberDinner\BubberDinner.Domain\obj\Debug\net7.0\refint\BubberDinner.Domain.dll
+D:\Projects\VSCODE-.NET\BuberDinner\BubberDinner.Domain\obj\Debug\net7.0\BubberDinner.Domain.pdb
+D:\Projects\VSCODE-.NET\BuberDinner\BubberDinner.Domain\obj\Debug\net7.0\ref\BubberDinner.Domain.dll
